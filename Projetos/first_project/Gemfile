@@ -1,0 +1,9 @@
+# gem install bundle
+# Gemfile é onde deixo as dependencias do meu projeto
+# Na primeira linha é definido onde o bundle deve procurar
+# Na segunda por diante é listado as dependencias
+# 
+
+source 'https://rubygems.org'
+ 
+gem 'os'
